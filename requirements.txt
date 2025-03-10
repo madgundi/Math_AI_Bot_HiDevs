@@ -1,0 +1,9 @@
+streamlit
+Pillow
+requests
+langchain
+langchain_groq
+langchain_community
+sentence-transformers
+faiss-cpu
+unstructured
